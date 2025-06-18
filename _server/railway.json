@@ -1,5 +1,8 @@
 {
   "build": {
     "cwd": "_server"
+  },
+  "start": {
+    "cmd": "node app.js" // or "npm start" depending on your setup
   }
 }
