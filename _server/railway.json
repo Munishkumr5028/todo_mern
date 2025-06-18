@@ -3,6 +3,6 @@
     "cwd": "_server"
   },
   "start": {
-    "cmd": "node app.js"
+    "cmd": "npm start"
   }
 }
