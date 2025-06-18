@@ -1,0 +1,10 @@
+{
+  "build": {
+    "cwd": "_server"
+  }
+}
+{
+  "build": {
+    "cwd": "client"
+  }
+}
