@@ -1,8 +1,1 @@
-[phases.build]
-cmds = ["npm install", "npm run build"]
 
-[phases.start]
-cmd = "npm run start"
-
-[start]
-cmd = "vite preview --host --port $PORT"
